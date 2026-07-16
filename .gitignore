@@ -1,0 +1,6 @@
+﻿node_modules/
+.env
+.env.local
+02_백엔드/data/out/
+*.zip
+.DS_Store
